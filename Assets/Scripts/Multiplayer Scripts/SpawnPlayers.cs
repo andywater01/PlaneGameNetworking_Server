@@ -39,7 +39,7 @@ public class SpawnPlayers : MonoBehaviour
             player.GetComponent<PlaneMove>().SetWind(camera);
             player.GetComponent<PlaneMove>().SetLeaderboard(Canvas);            
             player.GetComponent<PlaneMove>().SetSpeedometer(camera);
-            
+
 
 
 
